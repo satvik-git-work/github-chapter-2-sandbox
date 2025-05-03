@@ -1,3 +1,3 @@
 A readme file to describe the repository.
-/br
+br
 This repo is for github practise from codedex website
